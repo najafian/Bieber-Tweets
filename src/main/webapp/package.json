@@ -17,7 +17,7 @@
     "@types/redux": "^3.6.0",
     "@types/redux-promise-middleware": "^6.0.0",
     "@types/redux-thunk": "^2.1.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "base-href-webpack-plugin": "^2.0.0",
     "bootstrap": "^4.4.1",
     "history": "^4.10.1",
